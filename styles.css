@@ -1,0 +1,18 @@
+
+#button1{
+    
+    justify-content: center;
+}
+
+#div{
+    display: flex;
+    margin-top: 5vw;
+    margin-left: 45vw;
+}
+
+#kostka{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    
+}
